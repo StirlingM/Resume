@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+      <meta charset="utf-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="resume.css">
+        <title>My personal projects</title>
+    </head>
+    <body>
+    <img id="BackImg" src="http://www.febitholding.com/images/1.jpg">
+    <div id="header"><h1 id="name">Stirling Miller</h1>
+     
+    </div>
+	<div class="left"> 
+	    <ul class="nav nav-pills">
+            <li><a href="mainWeb.html">Main Resume</a></li>
+            <li><a href="pictures.html">My Pictures </a></li>
+        </ul></div>
+	<div class="right">
+	       <h1 id="topList">My personal pojects</h1>
+        <ul id="dropList">
+            <li>
+                Website to assist in the locating of BYU contracted housing.
+            </li>
+        </ul>
+        </div>
+	</body>
+</html>

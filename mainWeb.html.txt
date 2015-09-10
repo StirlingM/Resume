@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="resume.css">
+        <title>Stirling Miller</title>
+    </head>
+    <body>
+    <img id="BackImg" src="http://www.febitholding.com/images/1.jpg">
+       <div id="header"><h1 id="name">Stirling Miller</h1>
+           
+       </div>
+	<div class="left"> 
+	    <ul class="nav nav-pills">
+            <li><a href="pictures.html">My pictures</a></li>
+            <li><a href="projects.html">My projects </a></li>
+        </ul></div>
+	<div class="right">
+	<h2 id="topList">Skills</h2>
+	<p>I have learned many skills across different academic and personal experiences</p>
+        <ul>
+            <li>Basic proficiency with:</li>
+            <ul>
+                    <li>C++</li>
+                    <li>Java</li>
+                    <li>HTML/CSS</li>
+                    <li>Javascript</li>
+             </ul>
+             <li>Quick Learner with Computer Software</li>
+             <li>Proficient with Microsoft Office software</li>
+             <li>Type 80+ WPM</li>
+        </ul>
+        <h2 id="listheads">Experience</h2>
+        <ul id ="listheads">
+            <li>Officer in BYU student chapter of ACM</li>
+            <li>BSA Eagle Scout</li>
+            <li>Served full 2 year mission for the LDS Church</li>
+            <li>Software Trainer at BYU Harold B. Lee Library</li>
+        </ul>
+        <h2 id="listheads">Education</h2>
+        <ul id="listheads">
+            <li>Undergraduate Computer Science Major BYU</li>
+            <li>Valedictorian Davinci Academy of Science and the Arts 2009</li>
+            <li>2 years prior experience as Undergraduate at USU</li>
+        </ul>
+        </div>
+	<div id="footer"></div>
+	</body>
+</html>
